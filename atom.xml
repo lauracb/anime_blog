@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anime Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-08T22:44:21.059Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Laura Cadavid</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dead-parade</title>
+    <link href="http://yoursite.com/2019/02/08/Dead-parade/"/>
+    <id>http://yoursite.com/2019/02/08/Dead-parade/</id>
+    <published>2019-02-08T22:26:52.000Z</published>
+    <updated>2019-02-08T22:44:21.059Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="thriller" scheme="http://yoursite.com/tags/thriller/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Shingeki-no-Kyojin</title>
+    <link href="http://yoursite.com/2019/02/08/Shingeki-no-Kyojin/"/>
+    <id>http://yoursite.com/2019/02/08/Shingeki-no-Kyojin/</id>
+    <published>2019-02-08T21:56:49.000Z</published>
+    <updated>2019-02-08T22:44:24.055Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="shonen" scheme="http://yoursite.com/tags/shonen/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OnePiece</title>
+    <link href="http://yoursite.com/2019/02/08/OnePiece/"/>
+    <id>http://yoursite.com/2019/02/08/OnePiece/</id>
+    <published>2019-02-08T20:37:49.000Z</published>
+    <updated>2019-02-08T22:44:07.742Z</updated>
+    
+    <content type="html"><![CDATA[<p>Blog sobre ONepiece</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Blog sobre ONepiece&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="shonen" scheme="http://yoursite.com/tags/shonen/"/>
+    
+  </entry>
+  
+</feed>
